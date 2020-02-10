@@ -3,11 +3,11 @@
 <?php
 include('tekstovi.php');
 ?>
-<head>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 	<!-- Basic Page Needs
 	================================================== -->
-	<meta charset="utf-8">
+	
 	<title><?php echo _T('Naslov sajta'); ?></title>
 	<meta name="description" content="<?php echo _T('Opis sajta'); ?>">
 
@@ -16,10 +16,10 @@ include('tekstovi.php');
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
 	<meta property="og:image" content="http://konsek.info/images/fb.jpg">
-	<meta property="og:title" content="КОНСЕК 2019: Инвестирај у себе">
+	<meta property="og:title" content="КОНСЕК 2020: Крени путем успеха">
 	<meta property="og:url" content="http://konsek.info/">
 	<meta property="og:site_name" content="Kongres studenata ekonomije">
-	<meta property="og:description" content="Конгрес студената економије (КОНСЕК) одржава се седму годину за редом на Златибору у организацији Групе за СПЕКОФ. Ове године конгрес ће трајати од 14. до 18. марта под слоганом Инверстирај у себе.">
+	<meta property="og:description" content="Конгрес студената економије (КОНСЕК) одржава се осму годину за редом на Златибору у организацији Групе за СПЕКОФ. Ове године конгрес ће трајати од 2. до 6. априла под слоганом Крени путем успеха.">
 
 	<!-- CSS
 	================================================== -->
